@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/src/images/trekking-7593276_1920.jpg";
+import image from "../images/trekking-7593276_1920.jpg";
 
 const imageAltText = "Wonderful picture of trekking and all";
 
