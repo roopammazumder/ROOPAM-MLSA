@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/src/images/trekking-7593276_1920.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "Wonderful picture of trekking and all";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "My Github Website",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "You can dive through a wonderful gateway by clicking this link",
+    url: "https://github.com/roopammazumder/MLSA/settings/pages",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Youtube Website",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "A youtube video to go ask for BETA SWags and unboxing",
+    url: "https://www.youtube.com/watch?v=ZqdEDnQ5iEo",
   },
   {
-    title: "My Resume Site",
+    title: "Another Youtube video",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "A good youtube video for technical onboarding",
+    url: "https://www.youtube.com/watch?v=tl4vk64enKA&list=PLV4sP-zi-uY-kqnJcxuaOptihKy2xnQzA&index=3",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "LinkedIn Page",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Click here to dive into my Linkedin profile",
+    url: "https://www.linkedin.com/in/roopam-mazumder-0954b4222/",
   },
 ];
 
